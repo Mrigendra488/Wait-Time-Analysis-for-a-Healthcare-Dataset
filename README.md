@@ -43,7 +43,7 @@ Healthcare facilities often struggle with optimizing appointment scheduling. Lon
 - `requirements.txt`: Python dependencies
 
 ## How to Run
-1. Open the Kaggle notebook: [https://www.kaggle.com/code/mrigendrapratap/wait-time-analysis/edit]
+1. Open the Kaggle notebook: [https://www.kaggle.com/code/mrigendrapratap/wait-time-analysis?scriptVersionId=249941206]
 2. Or clone this repository and run the notebook locally
 3. Dataset will be loaded automatically in Kaggle environment
 
